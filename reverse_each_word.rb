@@ -5,5 +5,5 @@ def reverse_each_word(sentence)
  new2.map {|i|i.to_str}
   
   
-  return new
+  return new2
 end
