@@ -3,8 +3,8 @@ def reverse_each_word(sentence)
 
  new.map {|i|i.reverse!}
  
- sentence.join(" ")
+ new.join(" ")
 
-  return sentence
+  return new
   
 end
