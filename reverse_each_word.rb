@@ -4,5 +4,5 @@ def reverse_each_word(sentence)
  new.map {|i|i.reverse}.push  
   
   
-  return new.
+  return new
 end
